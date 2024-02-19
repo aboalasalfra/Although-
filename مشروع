@@ -1,0 +1,5 @@
+I have assignment about AI-based protection system with IDS, we will use neural network code and KDD99 datasets. I need to make in Visual Studio :
+- idenfiy the datasets the you will use 
+- check the accuracy , Recall , precision for each datasets 
+- the IDS will pick up something and then will send an alert to fire wall to stop it.
+- explain how this will protect or network
